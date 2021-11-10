@@ -29,6 +29,7 @@ public let CollectionViewWaterfallElementKindSectionFooter = "CollectionViewWate
     
 }
 
+@objcMembers
 public class CollectionViewWaterfallLayout: UICollectionViewLayout {
     
     // MARK: - Private constants
